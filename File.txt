@@ -1,4 +1,9 @@
 jdjjd
+<<<<<<< HEAD
 dkfkdd
 ldldld
 
+=======
+ldldld
+ldlsl
+>>>>>>> d9d5d93 (File.txt)
